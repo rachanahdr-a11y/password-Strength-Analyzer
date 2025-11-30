@@ -59,7 +59,7 @@ neon-password-checker/
 
 1. 🔽 Clone this repo:
    ```bash
-   git clone https://github.com/SMNpuneeth/Password-Strength-Analyzer
+   git clone https://github.com/rachanahdr-a11y/Password-Strength-Analyzer
 2.🚀 Open index.html in your browser.
 
 3.🔤 Start typing a password — and watch the glow react in real-time!
